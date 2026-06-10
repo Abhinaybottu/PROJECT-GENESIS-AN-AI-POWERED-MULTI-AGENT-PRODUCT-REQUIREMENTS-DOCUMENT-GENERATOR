@@ -1,0 +1,15 @@
+packages:
+  "framer-motion": "For cinematic transitions between app phases"
+  "date-fns": "For date manipulation when generating the .ics calendar file"
+  "canvas-confetti": "For celebration effect on the final approval screen"
+  "@types/canvas-confetti": "Types for canvas-confetti"
+
+images:
+  - path: "artifacts/project-genesis/public/images/space-bg.png"
+    description: "Deep space cinematic background, abstract dark violet and black nebula with subtle stardust, premium dark mode aesthetic"
+    aspect_ratio: "16:9"
+
+notes:
+  - Client-side only application mocking a complex multi-agent workflow
+  - No backend required; all state is managed in React
+  - Tailwind v4 styling with space-separated HSL values

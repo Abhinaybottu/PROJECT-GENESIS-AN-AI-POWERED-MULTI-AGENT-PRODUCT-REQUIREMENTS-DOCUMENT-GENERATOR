@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AIProjectManager//AI Agent//EN
+BEGIN:VEVENT
+SUMMARY:Cam4U - Research and Planning
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Conduct market research, define project scope, and create a detailed project plan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cam4U - Data Collection and Labeling
+DTSTART;VALUE=DATE:20260423
+DESCRIPTION:Collect and label data for training AI models, including normal and anomalous surveillance footage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cam4U - AI Model Development
+DTSTART;VALUE=DATE:20260622
+DESCRIPTION:Design, train, and test AI models for real-time surveillance and anomaly detection
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cam4U - System Integration and Testing
+DTSTART;VALUE=DATE:20260920
+DESCRIPTION:Integrate AI models with surveillance systems, and conduct thorough testing and quality assurance
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cam4U - Deployment and Maintenance
+DTSTART;VALUE=DATE:20261119
+DESCRIPTION:Deploy Cam4U system, provide training and support, and perform ongoing maintenance and updates
+END:VEVENT
+END:VCALENDAR
